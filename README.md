@@ -4,7 +4,7 @@
 
 1. Download Anaconda
 
-If you do not have Anaconda on your computer, please download it from [here](https://www.anaconda.com/products/individual).
+If you do not have Anaconda on your computer, please download it from [here](https://www.anaconda.com/products/individual) (Scroll down to see the download links).
 
 2. Download files for tutorial
 
