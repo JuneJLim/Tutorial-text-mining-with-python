@@ -8,7 +8,7 @@ If you do not have Anaconda on your computer, please download it from [here](htt
 
 2. Download files for tutorial
 
-Please download all the file you see above except for README.md in a folder on your computer.
+Please download all the files you see [above](https://github.com/JuneJLim/UPenn-tutorial-text-mining-with-python) except for README.md in a folder on your computer.
 
 3. Open a Jupyter Notebook
 
