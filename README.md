@@ -6,13 +6,13 @@
 
 If you do not have Anaconda on your computer, please download it from [here](https://www.anaconda.com/products/individual) (Scroll down to see the download links).
 
-2. Download files for tutorial
+2. Download files for the tutorial
 
 Please download all the files you see [above](https://github.com/JuneJLim/UPenn-tutorial-text-mining-with-python) except for README.md in a folder on your computer.
 
 3. Open a Jupyter Notebook
 
-* Windows: Type "Jupyter Notebook" in the search box located on the task bar. A browser window should open up. In the browser window, go to the location of the Jupyter Notebook file you downloaded and open Text-Mining-With-Python-Tutorial-run-yourself.ipynb.
+* Windows: Type jupyter notebook in the search box located on the task bar. A browser window should open up. In the browser window, go to the location of the Jupyter Notebook file you downloaded and open Text-Mining-With-Python-Tutorial-run-yourself.ipynb.
 
 * Mac: Open a terminal. Type jupyter notebook. A browser should open up. In the browser window, go to the location of the Jupyter Notebook file you downloaded and open Text-Mining-With-Python-Tutorial-run-yourself.ipynb.
 
