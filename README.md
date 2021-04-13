@@ -1,6 +1,6 @@
-# Welcome to the Text Mining with Python Tutorial!
+# Text Mining with Python Tutorial
 
-## Here are the steps you need to take before starting the tutorial:
+## Steps you need to take before starting the tutorial:
 
 1. Download Anaconda
 
